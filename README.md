@@ -31,5 +31,9 @@ student-registration-system/
 ## Author
 John Bahati
 
+## Student information
+- Student name John Ikelya Bahati
+- Registration no 14325052/ T. 24
+
 ## Lecturer
-Kaduefe
+@Kaduefe

@@ -30,3 +30,6 @@ student-registration-system/
 
 ## Author
 John Bahati
+
+## Lecture
+Kadefue

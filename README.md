@@ -36,4 +36,4 @@ John Bahati
 - Registration no 14325052/ T. 24
 
 ## Lecturer
-@Kaduefe
+@Kadefue

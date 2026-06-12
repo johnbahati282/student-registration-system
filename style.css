@@ -1,0 +1,54 @@
+body {
+    font-family: Arial;
+    background: #eef2f3;
+    text-align: center;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+form {
+    margin: 10px;
+}
+
+input {
+    padding: 10px;
+    margin: 5px;
+    width: 200px;
+}
+
+button {
+    padding: 8px 12px;
+    border: none;
+    cursor: pointer;
+    background: green;
+    color: white;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+    background: white;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+th {
+    background: #2c3e50;
+    color: white;
+}
+
+#search {
+    width: 50%;
+    padding: 10px;
+    margin: 10px;
+}
